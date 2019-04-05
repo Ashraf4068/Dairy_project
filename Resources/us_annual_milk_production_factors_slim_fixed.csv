@@ -1,4 +1,4 @@
-Year,Average number of milk cows in the U.S. (thousand),Milk per cow (thousand lbs.),Milk production (billion lbs.),Dairy ration value ($/cwt),Milk Cow Price ($/head),Alfalfa hay price received by farmers ($/ton),Slaughter cow price ($/cwt)
+Year,Average number of milk cows in the U.S. (million),Milk per cow (thousand lbs.),Milk production (billion lbs.),Dairy ration value ($/cwt),Milk Cow Price ($/head),Alfalfa hay price received by farmers ($/ton),Slaughter cow price ($/cwt)
 1989,10.046,14.323,143.893,5.07,1030,95.98,50.11
 1998,9.151,17.185,157.262,4.73,1120,94.28,35.54
 2008,9.314,20.397,189.978,9.17,1950,161.33,51.44
