@@ -13,26 +13,26 @@ Dairy farms, overwhelmingly family-owned and managed, are generally members of p
 In this project we research and visualize several key questions to better understand the domestic supply, demand and trade of dairy products that impact domestic dairy farming. In addition we will visualize global data trends, depending on accessibility of the data. 
 
 
-##Research Questions to Answer
+## Research Questions to Answer
 
 How much milk has the United State produced over time and when compared with milk prices?
-*Milk production, US Estimate 2016, 2017, 2018
-*Milk Prices, US Estimate 2016, 2017, 2018 (or Retail Prices of Fluid Milk 2016, 2017, 2018)
-*Data:  US Dairy Situation at a Glance (https://www.ers.usda.gov/data-products/dairy-data.aspx)
+* Milk production, US Estimate 2016, 2017, 2018
+* Milk Prices, US Estimate 2016, 2017, 2018 (or Retail Prices of Fluid Milk 2016, 2017, 2018)
+* Data:  US Dairy Situation at a Glance (https://www.ers.usda.gov/data-products/dairy-data.aspx)
 
 How much milk does each region of the US produce overtime?
-*Milk production by region (2012-2017)
-*Data: Milk cows and production by State and region (Annual) (https://www.ers.usda.gov/data-products/dairy-data.aspx)
+* Milk production by region (2012-2017)
+* Data: Milk cows and production by State and region (Annual) (https://www.ers.usda.gov/data-products/dairy-data.aspx)
 
 Which factors play the strongest role in affecting Milk production?
-*Compare factors such as milk cows and heifers that have calved, replacement heifers, average price paid for milk, etc.
-*Data: Annual Milk Production and Factors Affecting Supply (Annual): https://www.ers.usda.gov/data-products/dairy-data.aspx
+* Compare factors such as milk cows and heifers that have calved, replacement heifers, average price paid for milk, etc.
+* Data: Annual Milk Production and Factors Affecting Supply (Annual): https://www.ers.usda.gov/data-products/dairy-data.aspx
 
 How does the US compare with other countries using trading data of lactose for the past 12 months?
-*Data: https://www.quandl.com/data/GDT-Global-Dairy-Trade/documentation
+* Data: https://www.quandl.com/data/GDT-Global-Dairy-Trade/documentation
 
 What are the trends of farm size vs. number of dairy cows over time? 
-*https://www.nbcnews.com/news/us-news/best-advice-u-s-dairy-farmers-sell-out-fast-you-n887941
+* https://www.nbcnews.com/news/us-news/best-advice-u-s-dairy-farmers-sell-out-fast-you-n887941
 
 
 ## Data Sets to be Used
