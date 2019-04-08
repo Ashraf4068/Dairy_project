@@ -36,18 +36,18 @@ What are the trends of farm size vs. number of dairy cows over time?
 
 
 ## Data Sets to be Used
-USDA Dairy Data: https://www.ers.usda.gov/data-products/dairy-data.aspx
-Global Dairy Trade: https://www.quandl.com/data/GDT-Global-Dairy-Trade/documentation
+* USDA Dairy Data: https://www.ers.usda.gov/data-products/dairy-data.aspx
+* Global Dairy Trade: https://www.quandl.com/data/GDT-Global-Dairy-Trade/documentation
 
 
 ## References
-*Overview. https://www.ers.usda.gov/topics/animal-products/dairy/
-*Growth of US Dairy Exports. https://www.ers.usda.gov/webdocs/publications/81255/ldpm-270-01.pdf?v=42703
-*Dairy Data. https://www.ers.usda.gov/data-products/dairy-data
+* Overview. https://www.ers.usda.gov/topics/animal-products/dairy/
+* Growth of US Dairy Exports. https://www.ers.usda.gov/webdocs/publications/81255/ldpm-270-01.pdf?v=42703
+* Dairy Data. https://www.ers.usda.gov/data-products/dairy-data
 
 
 ### Ideas
-*U.S. Dairy Export Council: 
+* U.S. Dairy Export Council: 
 http://www.usdec.org/research-and-data/market-information/us-export-data
-*China Dairy Report: https://www.ers.usda.gov/webdocs/publications/86231/ldpm-282-01.pdf?v=0
+* China Dairy Report: https://www.ers.usda.gov/webdocs/publications/86231/ldpm-282-01.pdf?v=0
 
